@@ -1,0 +1,153 @@
+Fri Mar 11 19:47:25 2022: Class SYS constructed.Timestamp:1646999276
+Fri Mar 11 19:47:25 2022: Function SYS::initialize started.
+Fri Mar 11 19:47:25 2022: Enter 10-digit seed. Enter'/' for Auto Generate:
+Fri Mar 11 19:47:25 2022: /
+Fri Mar 11 19:47:25 2022: Function SYS::seedResolution started.
+Fri Mar 11 19:47:25 2022: IndivisualOrder->8
+Fri Mar 11 19:47:25 2022: InitCrtAmount->70
+Fri Mar 11 19:47:25 2022: InterOrder->5
+Fri Mar 11 19:47:25 2022: Max_x->6679
+Fri Mar 11 19:47:25 2022: Max_y->8928
+Fri Mar 11 19:47:25 2022: Function SYS::seedResolution terminated.
+Fri Mar 11 19:47:25 2022: Successfully created 1th creature with 12 DNA at 4336,265
+
+Fri Mar 11 19:47:25 2022: Successfully created 2th creature with 50 DNA at 4387,180
+
+Fri Mar 11 19:47:25 2022: Successfully created 3th creature with 97 DNA at 38,5456
+
+Fri Mar 11 19:47:25 2022: Successfully created 4th creature with 19 DNA at 1371,4611
+
+Fri Mar 11 19:47:25 2022: Successfully created 5th creature with 3 DNA at 4052,1338
+
+Fri Mar 11 19:47:25 2022: Successfully created 6th creature with 46 DNA at 1318,7021
+
+Fri Mar 11 19:47:25 2022: Successfully created 7th creature with 43 DNA at 5794,4341
+
+Fri Mar 11 19:47:25 2022: Successfully created 8th creature with 68 DNA at 3736,6381
+
+Fri Mar 11 19:47:25 2022: Successfully created 9th creature with 36 DNA at 5528,4035
+
+Fri Mar 11 19:47:25 2022: Successfully created 10th creature with 25 DNA at 890,7482
+
+Fri Mar 11 19:47:25 2022: Successfully created 11th creature with 83 DNA at 6623,7702
+
+Fri Mar 11 19:47:25 2022: Successfully created 12th creature with 40 DNA at 5879,8730
+
+Fri Mar 11 19:47:25 2022: Successfully created 13th creature with 92 DNA at 1019,6874
+
+Fri Mar 11 19:47:25 2022: Successfully created 14th creature with 75 DNA at 2643,3517
+
+Fri Mar 11 19:47:25 2022: Successfully created 15th creature with 95 DNA at 3644,3569
+
+Fri Mar 11 19:47:25 2022: Successfully created 16th creature with 49 DNA at 2153,1280
+
+Fri Mar 11 19:47:25 2022: Successfully created 17th creature with 87 DNA at 880,4422
+
+Fri Mar 11 19:47:25 2022: Successfully created 18th creature with 76 DNA at 3,1894
+
+Fri Mar 11 19:47:25 2022: Successfully created 19th creature with 38 DNA at 3035,1205
+
+Fri Mar 11 19:47:25 2022: Successfully created 20th creature with 74 DNA at 4547,5433
+
+Fri Mar 11 19:47:25 2022: Successfully created 21th creature with 57 DNA at 6013,4813
+
+Fri Mar 11 19:47:25 2022: Successfully created 22th creature with 89 DNA at 424,7112
+
+Fri Mar 11 19:47:25 2022: Successfully created 23th creature with 22 DNA at 4915,1347
+
+Fri Mar 11 19:47:25 2022: Successfully created 24th creature with 54 DNA at 2253,2239
+
+Fri Mar 11 19:47:25 2022: Successfully created 25th creature with 50 DNA at 942,4821
+
+Fri Mar 11 19:47:25 2022: Successfully created 26th creature with 44 DNA at 5899,5113
+
+Fri Mar 11 19:47:25 2022: Successfully created 27th creature with 68 DNA at 2820,4551
+
+Fri Mar 11 19:47:25 2022: Successfully created 28th creature with 44 DNA at 4662,4626
+
+Fri Mar 11 19:47:25 2022: Successfully created 29th creature with 5 DNA at 4900,6458
+
+Fri Mar 11 19:47:25 2022: Successfully created 30th creature with 36 DNA at 2797,2770
+
+Fri Mar 11 19:47:25 2022: Successfully created 31th creature with 48 DNA at 4436,5485
+
+Fri Mar 11 19:47:25 2022: Successfully created 32th creature with 35 DNA at 335,7631
+
+Fri Mar 11 19:47:25 2022: Successfully created 33th creature with 86 DNA at 1697,1620
+
+Fri Mar 11 19:47:25 2022: Successfully created 34th creature with 62 DNA at 2165,1682
+
+Fri Mar 11 19:47:25 2022: Successfully created 35th creature with 9 DNA at 799,6962
+
+Fri Mar 11 19:47:25 2022: Successfully created 36th creature with 66 DNA at 2750,8110
+
+Fri Mar 11 19:47:25 2022: Successfully created 37th creature with 26 DNA at 3147,1122
+
+Fri Mar 11 19:47:25 2022: Successfully created 38th creature with 8 DNA at 6437,8667
+
+Fri Mar 11 19:47:25 2022: Successfully created 39th creature with 32 DNA at 5418,4363
+
+Fri Mar 11 19:47:25 2022: Successfully created 40th creature with 58 DNA at 3326,4326
+
+Fri Mar 11 19:47:25 2022: Successfully created 41th creature with 53 DNA at 4381,6884
+
+Fri Mar 11 19:47:25 2022: Successfully created 42th creature with 6 DNA at 1532,6476
+
+Fri Mar 11 19:47:25 2022: Successfully created 43th creature with 57 DNA at 5987,5313
+
+Fri Mar 11 19:47:25 2022: Successfully created 44th creature with 76 DNA at 6010,3765
+
+Fri Mar 11 19:47:25 2022: Successfully created 45th creature with 84 DNA at 236,3852
+
+Fri Mar 11 19:47:25 2022: Successfully created 46th creature with 46 DNA at 6149,4821
+
+Fri Mar 11 19:47:25 2022: Successfully created 47th creature with 23 DNA at 5052,4483
+
+Fri Mar 11 19:47:25 2022: Successfully created 48th creature with 98 DNA at 2452,3363
+
+Fri Mar 11 19:47:25 2022: Successfully created 49th creature with 18 DNA at 1968,3936
+
+Fri Mar 11 19:47:25 2022: Successfully created 50th creature with 98 DNA at 4373,2279
+
+Fri Mar 11 19:47:25 2022: Successfully created 51th creature with 43 DNA at 836,1364
+
+Fri Mar 11 19:47:25 2022: Successfully created 52th creature with 94 DNA at 2164,7710
+
+Fri Mar 11 19:47:25 2022: Successfully created 53th creature with 75 DNA at 1188,4152
+
+Fri Mar 11 19:47:25 2022: Successfully created 54th creature with 79 DNA at 3945,4617
+
+Fri Mar 11 19:47:25 2022: Successfully created 55th creature with 59 DNA at 6216,2997
+
+Fri Mar 11 19:47:25 2022: Successfully created 56th creature with 15 DNA at 1629,4890
+
+Fri Mar 11 19:47:25 2022: Successfully created 57th creature with 37 DNA at 3361,2237
+
+Fri Mar 11 19:47:25 2022: Successfully created 58th creature with 5 DNA at 4987,385
+
+Fri Mar 11 19:47:25 2022: Successfully created 59th creature with 57 DNA at 4691,3531
+
+Fri Mar 11 19:47:25 2022: Successfully created 60th creature with 38 DNA at 5578,5137
+
+Fri Mar 11 19:47:25 2022: Successfully created 61th creature with 42 DNA at 1151,1361
+
+Fri Mar 11 19:47:25 2022: Successfully created 62th creature with 23 DNA at 6326,2427
+
+Fri Mar 11 19:47:25 2022: Successfully created 63th creature with 86 DNA at 4775,7729
+
+Fri Mar 11 19:47:25 2022: Successfully created 64th creature with 61 DNA at 4809,192
+
+Fri Mar 11 19:47:25 2022: Successfully created 65th creature with 46 DNA at 599,7309
+
+Fri Mar 11 19:47:25 2022: Successfully created 66th creature with 22 DNA at 4164,6599
+
+Fri Mar 11 19:47:25 2022: Successfully created 67th creature with 60 DNA at 3140,7850
+
+Fri Mar 11 19:47:25 2022: Successfully created 68th creature with 9 DNA at 1280,6610
+
+Fri Mar 11 19:47:25 2022: Successfully created 69th creature with 93 DNA at 2974,2745
+
+Fri Mar 11 19:47:25 2022: Successfully created 70th creature with 57 DNA at 3551,7773
+
+Fri Mar 11 19:47:25 2022: Function SYS::initialize terminated. Used milli-seconds :344
+Fri Mar 11 19:47:25 2022: System terminated. Time elapsed:344
